@@ -1,0 +1,2 @@
+Hue-lighter
+PAINT.NET above layer transparency setting: 64/255
