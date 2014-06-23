@@ -5,7 +5,7 @@ A fun two-player snake-based game
 
 Made using Pygame and Paint.NET, with sounds from Freesound
 
-First project from [Frozen Tea Studios](https://plus.google.com/100949352648485942435/posts)!
+First project from [Frozen Tea Studios!](https://plus.google.com/100949352648485942435/posts)
 
 Coding by George Walton and art by Christian Cheung
 
